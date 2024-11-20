@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m Amelia K.!
-👀 I’m passionate about AI & ML, computer vision & robotics, and have a professional history with web development.
-🌱 Currently pursuing my Master's in Computer Science at Georgia Tech (started January 2023). I'm two years in and currently taking ML and a roboitics research seminar.
+- 👋 Hi, I’m Amelia K.!
+- 👀 I’m passionate about AI & ML, computer vision & robotics, and have a professional history with web development.
+- 🌱 Currently pursuing my Master's in Computer Science at Georgia Tech (started January 2023). I'm two years in and currently taking ML and a roboitics research seminar.
